@@ -4,13 +4,13 @@ import "./Footer.css";
 const Footer = () => {
     return (
         <div className="footer-container">
-            <a
+            {/* <a
                 className="footer-link"
                 // href="#"
                 rel="noreferrer"
-            >
+            > */}
                 Nothing will work unless you do!
-            </a>
+            {/* </a> */}
         </div>
     );
 };
