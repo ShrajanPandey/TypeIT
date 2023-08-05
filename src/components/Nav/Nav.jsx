@@ -7,7 +7,7 @@ const Nav = () => {
         <div className="nav-container">
             <div className="nav-left">
                 <img className="flash-logo" src={logo} alt="logo" />
-                <p className="flash-logo-text">TypingFlash</p>
+                <p className="flash-logo-text">Type IT </p>
             </div>
             <div className="nav-right">
                 <a

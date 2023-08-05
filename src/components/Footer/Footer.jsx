@@ -6,7 +6,7 @@ const Footer = () => {
         <div className="footer-container">
             <a
                 className="footer-link"
-                href="#"
+                // href="#"
                 rel="noreferrer"
             >
                 Nothing will work unless you do!
